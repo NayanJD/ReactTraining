@@ -2,12 +2,11 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
 
-export class App extends Component {
+export class  Employee extends Component {
   render() {
     return (
-      <h1>Happy Learning React</h1>
+      <h2> Hey There</h2>
     );
   }
 }
 
-export default App;
